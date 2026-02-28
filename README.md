@@ -1,6 +1,6 @@
 # 🛒 PnP Stores 12-Month Sales Analysis
 
-This project analyzes 12 months of PnP Stores transactional data (January–December) to generate business insights and build a consolidated master dataset for reporting and analytics.
+This project analyzes 12 months of PnP Stores transactional data (January-December) to generate business insights and build a consolidated master dataset for reporting and analytics.
 
 ## Project Overview
 
