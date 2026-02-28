@@ -22,6 +22,8 @@ Each month’s dataset contains transactional-level data including:
 
 Store information
 
+Cashier name
+
 Product details
 
 Sales amounts
